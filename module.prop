@@ -1,6 +1,6 @@
-id=openeuicc
-name=OpenEUICC
-version=v01
+id=openeuicc.ous50
+name=OpenEUICC-ous50
+version=v0-alpha
 versionCode=1
-author=AndroPlus
+author=ous50
 description=Add OpenEUICC for eSIM
